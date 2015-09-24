@@ -1,0 +1,11 @@
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\Node2.exe.config
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\Node2.exe
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\Node2.pdb
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\obj\Debug\Node2.exe
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\obj\Debug\Node2.pdb
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\obj\Debug\Node2.csprojResolveAssemblyReference.cache
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\NetMQ.dll
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\AsyncIO.dll
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\NetMQ.xml
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\BullySharp.Core.dll
+D:\SAFE\Labb\Saab.Security.Bully.Core\Node2\bin\Debug\BullySharp.Core.pdb
