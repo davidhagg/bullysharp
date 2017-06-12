@@ -61,7 +61,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Saab.Security.Bully.Core.csproj">
+    <ProjectReference Include="..\BullySharp.Core.csproj">
       <Project>{E8C52978-68B7-4937-9FAD-F66AD60A0BB7}</Project>
       <Name>Saab.Security.Bully.Core</Name>
     </ProjectReference>
